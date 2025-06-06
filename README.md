@@ -36,7 +36,8 @@
    -  Content Delivery Networks (CDNs)
 5. **Networking** 
    - TCP vs UDP 
-   - What is HTTP (1/2/3) & HTTPS 
+   - What is HTTP (1/2/3) & HTTPS [🔗](https://blog.bytebytego.com/p/a-deep-dive-into-http-from-http-1)
+   - What is RPC and gRPC
    - Web sockets
    - WebRTC & video streaming 
 6. **Load Balancers**
@@ -87,7 +88,7 @@
    - Abstraction 
    - Inheritance 
    - Polymorphism 
-   - SOLID Principle 
+   - SOLID Principle [🔗](https://dev.to/sajidurshajib/5-pillars-of-solid-15gn)
 2. **Design Patterns** 
    - Creational (Singleton, Factory, etc)
    - Structural (Proxy, Bridge, etc)
