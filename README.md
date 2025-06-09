@@ -17,7 +17,7 @@
    - Serverless and Serverful
    - Horizontal and vertical scaling 
    - What are thread and process? [🔗](https://dev.to/sajidurshajib/thread-vs-process-in-a-nutshell-5bjp)
-   - What are pages?
+   - What are pages?[🔗](https://dev.to/sajidurshajib/what-are-pages-in-osmemory-46gc)
    - How does the internet work? 
 2. **Database:** 
    - SQL vs NoSQL DBs 
