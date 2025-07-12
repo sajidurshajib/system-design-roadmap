@@ -1,11 +1,11 @@
 # ⚙️ System Design Roadmap [🔗](https://www.youtube.com/watch?v=CuQmQpvw04I&t=1s)
 
-### Type of system design: [🔗](https://dev.to/sajidurshajib/understanding-hld-and-lld-in-system-design-a-developers-guide-22j6)
+### [Type of system design:](https://dev.to/sajidurshajib/understanding-hld-and-lld-in-system-design-a-developers-guide-22j6)
 
 1. HLD (High-level design) - Overview of the system
 2. LLD (Low-level design) - Actual machine coding 
 
-### Requirements:  [🔗](https://dev.to/sajidurshajib/functional-and-non-functional-requirements-explained-5gf9)
+### [Requirements:](https://dev.to/sajidurshajib/functional-and-non-functional-requirements-explained-5gf9)
 
 1. Functional requirements
 2. Non-functional requirements (qualities)
@@ -16,8 +16,8 @@
 1. **Fundamentals:**
    - Serverless and Serverful
    - Horizontal and vertical scaling 
-   - What are thread and process? [🔗](https://dev.to/sajidurshajib/thread-vs-process-in-a-nutshell-5bjp)
-   - What are pages?[🔗](https://dev.to/sajidurshajib/what-are-pages-in-osmemory-46gc)
+   - [What are thread and process?](https://dev.to/sajidurshajib/thread-vs-process-in-a-nutshell-5bjp)
+   - [What are pages?](https://dev.to/sajidurshajib/what-are-pages-in-osmemory-46gc)
    - How does the internet work? 
 2. **Database:** 
    - SQL vs NoSQL DBs 
@@ -28,7 +28,7 @@
 3. **Consistency and Availability** 
    - Data consistency and level 
    - Isolation and its levels
-   - CAP Theorem 
+   - [CAP Theorem](https://dev.to/sajidurshajib/understanding-the-cap-theorem-through-alices-distributed-adventure-pmp)
 4. **Cache**
    - What is Cache? (Redis, Memcached)
    -  Write policies: write back through and around. 
@@ -36,7 +36,7 @@
    -  Content Delivery Networks (CDNs)
 5. **Networking** 
    - TCP vs UDP 
-   - What is HTTP (1/2/3) & HTTPS [🔗](https://blog.bytebytego.com/p/a-deep-dive-into-http-from-http-1)
+   - [What is HTTP (1/2/3) & HTTPS](https://blog.bytebytego.com/p/a-deep-dive-into-http-from-http-1)
    - What is RPC and gRPC
    - Web sockets
    - WebRTC & video streaming 
@@ -88,7 +88,7 @@
    - Abstraction 
    - Inheritance 
    - Polymorphism 
-   - SOLID Principle [🔗](https://dev.to/sajidurshajib/5-pillars-of-solid-15gn)
+   - [SOLID Principle](https://dev.to/sajidurshajib/5-pillars-of-solid-15gn)
 2. **Design Patterns** 
    - Creational (Singleton, Factory, etc)
    - Structural (Proxy, Bridge, etc)
@@ -121,4 +121,4 @@
 ### Others
 
 1. **Database:**
-   - ACID - Database [🔗](https://dev.to/sajidurshajib/understanding-the-acid-properties-in-databases-m2i)
+   - [ACID - Database](https://dev.to/sajidurshajib/understanding-the-acid-properties-in-databases-m2i)
