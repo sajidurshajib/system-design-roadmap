@@ -20,7 +20,7 @@
    - [What are pages?](https://dev.to/sajidurshajib/what-are-pages-in-osmemory-46gc)
    - How does the internet work? 
 2. **Database:** 
-   - SQL vs NoSQL DBs 
+   - [SQL vs NoSQL DBs](https://dev.to/sajidurshajib/when-to-use-nosql-and-sql-a1m) 
    - In-memory DBs
    - Data replication and Migration 
    - Data Partitioning 
@@ -30,7 +30,7 @@
    - Isolation and its levels
    - [CAP Theorem](https://dev.to/sajidurshajib/understanding-the-cap-theorem-through-alices-distributed-adventure-pmp)
 4. **Cache**
-   - What is Cache? (Redis, Memcached)
+   -  What is Cache? (Redis, Memcached)
    -  Write policies: write back through and around. 
    -  Replacement policies: LFU, LRU, Segment LRU, etc
    -  Content Delivery Networks (CDNs)
@@ -43,7 +43,7 @@
 6. **Load Balancers**
    - Load Balancing Algorithms (Stateless and Stateful)
    - Consistent Hashing
-   - Proxy and Reverse proxy
+   - [Proxy and Reverse proxy](https://dev.to/sajidurshajib/proxy-vs-reverse-proxy-explained-simply-with-alice-1oof)
    - Rate Limiting 
 7. **Message Queues** 
    - Async processing (Kafka, RabbitMQ)
@@ -63,7 +63,7 @@
     - Access control list and rule engines
     - Encryption 
 11. **System Design Tradeoffs** 
-    - Push vs Pull architecture 
+    - [Push vs Pull architecture](https://dev.to/sajidurshajib/push-vs-pull-architecture-whats-the-real-difference-48kc)
     - Consistency and Availability 
     - SQL vs NoSQL DBs 
     - Memory vs Latency 
