@@ -117,8 +117,10 @@
    - Design a Logging framework 
    - Design a rate limiter
 
+---
 
 ### Others
 
 1. **Database:**
    - [ACID - Database](https://dev.to/sajidurshajib/understanding-the-acid-properties-in-databases-m2i)
+  
